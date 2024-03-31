@@ -5,7 +5,7 @@
     "license": "GPL-3.0",
     "url": "http://downloads.simulationcraft.org/nightly/simc-1026.01.307583c-win64.7z",
     "hash": "46f0efb162c1c0f065cc4db637958c221d03ea7578389c9a1c4b5538e04d8239",
-    "extract_dir": "simc-1025.01.bebebc6-win64",
+    "extract_dir": "simc-1026.01.307583c-win64",
     "shortcuts": [
         [
             "SimulationCraft.exe",
